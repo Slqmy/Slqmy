@@ -26,7 +26,7 @@
 
 ⚡️ Fun fact... I like Minecraft
 
-🤝 Friends with... @rolyPolyVole
+🤝 Friends with... **[@rolyPolyVole](https://github.com/rolyPolyVole)**
 
 ## 🛠 Languages / Skills
 
@@ -35,11 +35,13 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Slqmy)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Slqmy)
 
+## 📊 Stats
+
 ![Contribution Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slqmy&theme=aura)
 
-![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slqmy&theme=aura) ![Top Languages By Repositories](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slqmy&theme=aura)
-
 ![Profile Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Slqmy&theme=aura) ![Commit Statistics](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Slqmy&theme=aura&utcOffset=1)
+
+![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slqmy&theme=aura) ![Top Languages By Repositories](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slqmy&theme=aura)
 
 ## 🔗 Links
 
