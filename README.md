@@ -8,11 +8,11 @@
 
 🧠 I'm currently learning...
 
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Slqmy) [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Slqmy) [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Slqmy)
 
 👨‍🎓 I am planning on learning...
 
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Slqmy)
 
 👯‍♀️ I'm looking to collaborate on... `🌌 The Slimy Swamp 🌳`
 
@@ -30,23 +30,23 @@
 
 ## 🛠 Languages / Skills
 
-![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Slqmy)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Slqmy)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Slqmy)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Slqmy)
 
 ## 📊 Stats
 
-![Contribution Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slqmy&theme=aura)
+[![Contribution Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slqmy&theme=aura)](https://github.com/Slqmy)
 
-![Profile Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Slqmy&theme=aura) ![Commit Statistics](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Slqmy&theme=aura&utcOffset=1)
+[![Profile Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Slqmy&theme=aura) ![Commit Statistics](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Slqmy&theme=aura&utcOffset=1)](https://github.com/Slqmy)
 
-![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slqmy&theme=aura) ![Top Languages By Repositories](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slqmy&theme=aura)
+[![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slqmy&theme=aura) ![Top Languages By Repositories](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slqmy&theme=aura)](https://github.com/Slqmy)
 
-![Contribution Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=slqmy&hide_border=true&card_width=338&theme=aura) ![Github Statistics](https://github-readme-stats.vercel.app/api?username=slqmy)
+[![Contribution Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=slqmy&hide_border=true&card_width=338&theme=aura)](https://github.com/slqmy) [![Github Statistics](https://github-readme-stats.vercel.app/api?username=slqmy)](https://github.com/slqmy)
 
 ## 🔗 Links
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/SjAGgJaCYc) [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxadpGtkbIDcnKaddRFWV8g)
 
-![Profile Views](https://komarev.com/ghpvc/?username=slqmy&color=green&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=slqmy&color=green&style=flat)](https://github.com/Slqmy)
