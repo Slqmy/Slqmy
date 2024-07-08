@@ -1,1 +1,1 @@
-
+[![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slqmy&theme=aura) ![Top Languages By Repositories](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slqmy&theme=aura)](https://github.com/Slqmy)
