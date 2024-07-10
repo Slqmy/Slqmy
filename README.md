@@ -18,5 +18,5 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxadpGtkbIDcnKaddRFWV8g)
 
-## Friends:
+## Friends
 - [@rolyPolyVole](https://github.com/rolyPolyVole)
