@@ -1,4 +1,6 @@
-# Profile Overview
+# Slqmy
+
+## Profile Overview
 
 ![Contribution Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slqmy&theme=aura)
 
@@ -10,11 +12,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=slqmy&color=green&style=flat)
 
-## Language Statistics
+### Language Statistics
 
 ![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Slqmy&theme=aura) ![Top Languages By Repositories](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Slqmy&theme=aura)
 
-# Links
+## Links
 
-## Friends
+### Friends
+
 - [@rolyPolyVole](https://github.com/rolyPolyVole)
